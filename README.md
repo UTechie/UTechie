@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UTechie
 - 👀 I’m interested in android development
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning kotlin,jetpack compose
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/u_techie
 - 😄 Pronouns: ...
